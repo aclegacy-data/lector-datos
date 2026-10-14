@@ -1,0 +1,61 @@
+﻿quote_id,character_id,category,quote,display_order
+diluc_clickon_01,diluc,CLICKON,¿Necesitas algo?,1
+diluc_clickon_02,diluc,CLICKON,Te escucho.,2
+diluc_clickon_03,diluc,CLICKON,Habla. No tengo toda la noche.,3
+diluc_mobilize_01,diluc,MOBILIZE,Me encargaré.,1
+diluc_mobilize_02,diluc,MOBILIZE,Voy en camino.,2
+diluc_attack_01,diluc,ATTACK,No permitiré que avances.,1
+diluc_attack_02,diluc,ATTACK,¡Esto termina aquí!,2
+diluc_attack_03,diluc,ATTACK,Prueba el filo de mi espada.,3
+diluc_pissedup_01,diluc,PISSEDUP,¿El amanecer cuenta como dormir hasta tarde?,1
+diluc_pissedup_02,diluc,PISSEDUP,Kaeya seguramente está tramando algo. Otra vez.,2
+diluc_pissedup_03,diluc,PISSEDUP,He preparado té. No preguntes por qué hay cuatro tazas.,3
+diluc_pissedup_04,diluc,PISSEDUP,A veces creo que mi viñedo necesita menos invitados y más silencio.,4
+diluc_pissedup_05,diluc,PISSEDUP,¿Sería sospechoso patrullar con una manta sobre los hombros?,5
+diluc_pissedup_06,diluc,PISSEDUP,No estoy de mal humor. Solo estoy pensando con intensidad.,6
+diluc_pissedup_07,diluc,PISSEDUP,"Si alguien menciona una fiesta, no estoy en casa.",7
+lucy_heartfilia_clickon_01,lucy_heartfilia,CLICKON,"¡Dime, te escucho!",1
+lucy_heartfilia_clickon_02,lucy_heartfilia,CLICKON,¿Necesitas una maga celestial?,2
+lucy_heartfilia_clickon_03,lucy_heartfilia,CLICKON,¡Lucy está lista!,3
+lucy_heartfilia_mobilize_01,lucy_heartfilia,MOBILIZE,¡Voy para allá!,1
+lucy_heartfilia_mobilize_02,lucy_heartfilia,MOBILIZE,"¡Espérenme, ya llego!",2
+lucy_heartfilia_attack_01,lucy_heartfilia,ATTACK,"¡Aparece, espíritu celestial!",1
+lucy_heartfilia_attack_02,lucy_heartfilia,ATTACK,"¡Equipo, es nuestro turno!",2
+lucy_heartfilia_attack_03,lucy_heartfilia,ATTACK,¡No subestimes a Fairy Tail!,3
+lucy_heartfilia_pissedup_01,lucy_heartfilia,PISSEDUP,Me pregunto cuánto me pagarían por escribir las aventuras de Fairy Tail.,1
+lucy_heartfilia_pissedup_02,lucy_heartfilia,PISSEDUP,"¡Natsu, ni se te ocurra quemar mis notas!",2
+lucy_heartfilia_pissedup_03,lucy_heartfilia,PISSEDUP,¿Por qué siempre termino pagando yo la comida?,3
+lucy_heartfilia_pissedup_04,lucy_heartfilia,PISSEDUP,Mi próxima novela tendrá un capítulo entero sobre privacidad.,4
+lucy_heartfilia_pissedup_05,lucy_heartfilia,PISSEDUP,"Si Happy vuelve a pedirme pescado, le pasaré la cuenta.",5
+lucy_heartfilia_pissedup_06,lucy_heartfilia,PISSEDUP,Tengo una llave para casi todo... menos para conseguir un día tranquilo.,6
+lucy_heartfilia_pissedup_07,lucy_heartfilia,PISSEDUP,Quizá debería escribir una guía titulada Cómo sobrevivir a tus amigos.,7
+raiden_ei_clickon_01,raiden_ei,CLICKON,¿Has venido a buscarme?,1
+raiden_ei_clickon_02,raiden_ei,CLICKON,Te concedo mi atención.,2
+raiden_ei_clickon_03,raiden_ei,CLICKON,Habla.,3
+raiden_ei_mobilize_01,raiden_ei,MOBILIZE,Así se hará.,1
+raiden_ei_mobilize_02,raiden_ei,MOBILIZE,Iré personalmente.,2
+raiden_ei_attack_01,raiden_ei,ATTACK,¡Que la eternidad sea testigo!,1
+raiden_ei_attack_02,raiden_ei,ATTACK,No escaparás de mi juicio.,2
+raiden_ei_attack_03,raiden_ei,ATTACK,¡Por el poder del trueno!,3
+raiden_ei_pissedup_01,raiden_ei,PISSEDUP,¿Cuánto tiempo ha pasado desde que comí algo dulce?,1
+raiden_ei_pissedup_02,raiden_ei,PISSEDUP,La eternidad parece más sencilla que comprender ciertas costumbres humanas.,2
+raiden_ei_pissedup_03,raiden_ei,PISSEDUP,Makoto habría encontrado una forma más amable de decirlo.,3
+raiden_ei_pissedup_04,raiden_ei,PISSEDUP,He decidido probar otro postre. Por razones estratégicas.,4
+raiden_ei_pissedup_05,raiden_ei,PISSEDUP,¿Por qué los humanos hacen tantas preguntas durante una meditación?,5
+raiden_ei_pissedup_06,raiden_ei,PISSEDUP,Quizá hoy pueda dedicar unos minutos más a los dulces.,6
+raiden_ei_pissedup_07,raiden_ei,PISSEDUP,No estoy evitando una conversación. Estoy contemplando la eternidad.,7
+furina_clickon_01,furina,CLICKON,"¡Ah, sí! La estrella de Fontaine te escucha.",1
+furina_clickon_02,furina,CLICKON,¿Has venido a admirar mi talento?,2
+furina_clickon_03,furina,CLICKON,¡Dime! Pero procura que sea algo digno de mi atención.,3
+furina_mobilize_01,furina,MOBILIZE,¡La gran Furina entra en escena!,1
+furina_mobilize_02,furina,MOBILIZE,"¡Abran paso, por favor!",2
+furina_attack_01,furina,ATTACK,¡Que comience el espectáculo!,1
+furina_attack_02,furina,ATTACK,¡Observa una actuación inolvidable!,2
+furina_attack_03,furina,ATTACK,¡El escenario es mío!,3
+furina_pissedup_01,furina,PISSEDUP,A veces me pregunto si Neuvillette me cuidaría incluso si me convierto en gusano.,1
+furina_pissedup_02,furina,PISSEDUP,"Si sigues así, te obligaré a que me acompañes a los Premios Oscar. Ya sabes que seré la mejor actriz.",2
+furina_pissedup_03,furina,PISSEDUP,¿Crees que debería practicar una entrada dramática incluso cuando estoy sola?,3
+furina_pissedup_04,furina,PISSEDUP,Me pregunto si los macarons cuentan como una cena elegante si como suficientes.,4
+furina_pissedup_05,furina,PISSEDUP,¡No estoy hablando sola! Estoy ensayando una conversación con una audiencia imaginaria.,5
+furina_pissedup_06,furina,PISSEDUP,"Si alguien encuentra mi diario, declararé que es una obra de ficción muy premiada.",6
+furina_pissedup_07,furina,PISSEDUP,¿Y si organizo una rueda de prensa para anunciar que hoy no habrá rueda de prensa?,7
