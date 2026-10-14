@@ -1,5 +1,5 @@
 ﻿character_id,name,sex,race,class,rank,image_url,element
-diluc,Diluc,male,humano,luchador,campeon,local:assets/characters/diluc.webp,Fuego
-lucy_heartfilia,Lucy Heartfilia,female,humano,conjurador,principiante,,Ninguno
-raiden_ei,Raiden Ei,female,angel,elementalista,heroe,local:assets/characters/raiden.webp,Rayo
-furina,Furina,female,humano,conjurador,guerrero,local:assets/characters/furina.webp,Hydro
+diluc,Diluc,male,humano,luchador,campeon,https://i.imgur.com/Nb616nv.jpeg,Fuego
+lucy_heartfilia,Lucy Heartfilia,female,humano,conjurador,principiante,https://i.imgur.com/00md2HH.jpeg,Ninguno
+raiden_ei,Raiden Ei,female,angel,elementalista,heroe,https://i.imgur.com/Q4WvgDL.jpeg,Rayo
+furina,Furina,female,humano,conjurador,guerrero,https://i.imgur.com/2ogBYGW.jpeg,Hydro
