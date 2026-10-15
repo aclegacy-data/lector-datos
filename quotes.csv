@@ -59,3 +59,73 @@ furina_pissedup_04,furina,PISSEDUP,Me pregunto si los macarons cuentan como una 
 furina_pissedup_05,furina,PISSEDUP,¡No estoy hablando sola! Estoy ensayando una conversación con una audiencia imaginaria.,5
 furina_pissedup_06,furina,PISSEDUP,"Si alguien encuentra mi diario, declararé que es una obra de ficción muy premiada.",6
 furina_pissedup_07,furina,PISSEDUP,¿Y si organizo una rueda de prensa para anunciar que hoy no habrá rueda de prensa?,7
+scathach_clickon_01,scathach,CLICKON,¿Has venido a entrenar o a morir?,1
+scathach_clickon_02,scathach,CLICKON,Habla. Tengo tiempo para una lección.,2
+scathach_clickon_03,scathach,CLICKON,Veamos qué necesitas de mí.,3
+scathach_mobilize_01,scathach,MOBILIZE,No te quedes atrás.,1
+scathach_mobilize_02,scathach,MOBILIZE,Terminaré con esto rápidamente.,2
+scathach_attack_01,scathach,ATTACK,¡Muéstrame si mereces sobrevivir!,1
+scathach_attack_02,scathach,ATTACK,¡La lanza no conoce la piedad!,2
+scathach_attack_03,scathach,ATTACK,Tu destino ya está decidido.,3
+scathach_pissedup_01,scathach,PISSEDUP,¿Por qué todos mis discípulos terminan buscando una forma de matarme?,1
+scathach_pissedup_02,scathach,PISSEDUP,La inmortalidad suena maravillosa hasta que te quedas sin pasatiempos.,2
+scathach_pissedup_03,scathach,PISSEDUP,"Quizá debería tomarme unas vacaciones. Unos cuantos siglos, tal vez.",3
+scathach_pissedup_04,scathach,PISSEDUP,"Cuanto más entreno a alguien, más ganas le entran de desafiarme.",4
+scathach_pissedup_05,scathach,PISSEDUP,¿Será demasiado pedir un oponente que no se rompa al primer golpe?,5
+scathach_pissedup_06,scathach,PISSEDUP,Criar guerreros es agotador. Y después dicen que la magia lo resuelve todo.,6
+nero_claudius_clickon_01,nero_claudius,CLICKON,"¡Oh, has venido a contemplar a tu emperatriz!",1
+nero_claudius_clickon_02,nero_claudius,CLICKON,¡Habla! ¡Nero te concede una audiencia!,2
+nero_claudius_clickon_03,nero_claudius,CLICKON,¡La estrella del espectáculo está aquí!,3
+nero_claudius_mobilize_01,nero_claudius,MOBILIZE,¡Contempla la gloriosa marcha de Nero!,1
+nero_claudius_mobilize_02,nero_claudius,MOBILIZE,¡Abran paso a la emperatriz escarlata!,2
+nero_claudius_attack_01,nero_claudius,ATTACK,"¡Florece, espada de mi gloria!",1
+nero_claudius_attack_02,nero_claudius,ATTACK,¡Que el mundo contemple mi magnificencia!,2
+nero_claudius_attack_03,nero_claudius,ATTACK,¡Un aplauso para tu derrota!,3
+nero_claudius_pissedup_01,nero_claudius,PISSEDUP,¿Cómo es posible que nadie haya compuesto una ópera sobre mi desayuno?,1
+nero_claudius_pissedup_02,nero_claudius,PISSEDUP,¡He cantado durante tres horas y todavía no me han pedido un bis! ¡Incomprensible!,2
+nero_claudius_pissedup_03,nero_claudius,PISSEDUP,¿Un espejo nuevo? ¡Por supuesto! Uno nunca tiene suficientes.,3
+nero_claudius_pissedup_04,nero_claudius,PISSEDUP,He decidido cocinar. ¿Por qué todos huyen cuando me pongo el delantal?,4
+nero_claudius_pissedup_05,nero_claudius,PISSEDUP,¡Mi actuación fue perfecta! Que el público no lo haya entendido es otro asunto.,5
+nero_claudius_pissedup_06,nero_claudius,PISSEDUP,¿Qué clase de reino no tiene un festival dedicado exclusivamente a Nero?,6
+inosuke_hashibira_clickon_01,inosuke_hashibira,CLICKON,"¡¿QUÉ QUIERES, EH?!",1
+inosuke_hashibira_clickon_02,inosuke_hashibira,CLICKON,¡El gran Inosuke está aquí!,2
+inosuke_hashibira_clickon_03,inosuke_hashibira,CLICKON,¡Dime dónde está el más fuerte!,3
+inosuke_hashibira_mobilize_01,inosuke_hashibira,MOBILIZE,¡JAJAJA! ¡APÁRTENSE TODOS!,1
+inosuke_hashibira_mobilize_02,inosuke_hashibira,MOBILIZE,"¡Voy a llegar primero, cabeza de musgo!",2
+inosuke_hashibira_attack_01,inosuke_hashibira,ATTACK,¡RESPIRACIÓN DE LA BESTIA!,1
+inosuke_hashibira_attack_02,inosuke_hashibira,ATTACK,¡TE VOY A HACER PEDAZOS!,2
+inosuke_hashibira_attack_03,inosuke_hashibira,ATTACK,¡NO PUEDES GANARLE A LA BESTIA!,3
+inosuke_hashibira_pissedup_01,inosuke_hashibira,PISSEDUP,¿¡POR QUÉ NADIE QUIERE PELEAR CONMIGO MIENTRAS COMEMOS!?,1
+inosuke_hashibira_pissedup_02,inosuke_hashibira,PISSEDUP,¡He ganado otra vez! ...¿Por qué nadie estaba compitiendo conmigo?,2
+inosuke_hashibira_pissedup_03,inosuke_hashibira,PISSEDUP,Ese jabalí de mi máscara tiene más estilo que todos ustedes.,3
+inosuke_hashibira_pissedup_04,inosuke_hashibira,PISSEDUP,¿¡QUIÉN SE COMIÓ MI COMIDA!? ¡VOY A DESAFIAR A TODO EL MUNDO!,4
+inosuke_hashibira_pissedup_05,inosuke_hashibira,PISSEDUP,¡Puedo correr más rápido que cualquiera! ...¿Por qué hay que caminar a veces?,5
+inosuke_hashibira_pissedup_06,inosuke_hashibira,PISSEDUP,¿Qué demonios es una siesta? ¡Suena como una técnica secreta!,6
+himiko_toga_clickon_01,himiko_toga,CLICKON,¡Holaaa! ¿Me extrañabas?,1
+himiko_toga_clickon_02,himiko_toga,CLICKON,¿Puedo saber más de ti? ¡Porfiii!,2
+himiko_toga_clickon_03,himiko_toga,CLICKON,"¡Ay, qué emoción! ¿Qué vamos a hacer?",3
+himiko_toga_mobilize_01,himiko_toga,MOBILIZE,"¡Voy, voy! ¡Qué ganas tenía de jugar!",1
+himiko_toga_mobilize_02,himiko_toga,MOBILIZE,¡Espérame! ¡No quiero perderme nada!,2
+himiko_toga_attack_01,himiko_toga,ATTACK,¡A ver qué cara pones ahora!,1
+himiko_toga_attack_02,himiko_toga,ATTACK,¡Qué emocionante! ¡No te muevas!,2
+himiko_toga_attack_03,himiko_toga,ATTACK,"¡Quiero conocerte mucho, mucho más!",3
+himiko_toga_pissedup_01,himiko_toga,PISSEDUP,¿Por qué todos se ponen nerviosos cuando les digo que me gustan?,1
+himiko_toga_pissedup_02,himiko_toga,PISSEDUP,¡Hoy vi a alguien con una sonrisa preciosa! ¡Quería quedármela para mí!,2
+himiko_toga_pissedup_03,himiko_toga,PISSEDUP,¿Qué ropa debería ponerme para parecerme a alguien que me gusta?,3
+himiko_toga_pissedup_04,himiko_toga,PISSEDUP,"¡Ay, qué rabia! ¡Me gustaba tanto y tuvo que salir corriendo!",4
+himiko_toga_pissedup_05,himiko_toga,PISSEDUP,¿Será muy raro practicar sonrisas frente al espejo durante toda la tarde?,5
+himiko_toga_pissedup_06,himiko_toga,PISSEDUP,¡Qué aburrido! ¡Quiero hacer algo divertido con alguien especial!,6
+shirou_emiya_clickon_01,shirou_emiya,CLICKON,¿Necesitas ayuda? Dime qué pasa.,1
+shirou_emiya_clickon_02,shirou_emiya,CLICKON,"Si hay algo que pueda hacer, cuenta conmigo.",2
+shirou_emiya_clickon_03,shirou_emiya,CLICKON,Está bien. Te escucho.,3
+shirou_emiya_mobilize_01,shirou_emiya,MOBILIZE,Voy. No te preocupes.,1
+shirou_emiya_mobilize_02,shirou_emiya,MOBILIZE,Déjamelo a mí. Haré lo que pueda.,2
+shirou_emiya_attack_01,shirou_emiya,ATTACK,¡No dejaré que lastimes a nadie más!,1
+shirou_emiya_attack_02,shirou_emiya,ATTACK,"¡Proyección, comienzo!",2
+shirou_emiya_attack_03,shirou_emiya,ATTACK,¡Mis ideales no terminan aquí!,3
+shirou_emiya_pissedup_01,shirou_emiya,PISSEDUP,¿Por qué siempre termino arreglando cosas que ni siquiera rompí?,1
+shirou_emiya_pissedup_02,shirou_emiya,PISSEDUP,Debería descansar... después de lavar los platos.,2
+shirou_emiya_pissedup_03,shirou_emiya,PISSEDUP,¡No puedes vivir solamente de arroz! ...Aunque es bastante práctico.,3
+shirou_emiya_pissedup_04,shirou_emiya,PISSEDUP,¿Por qué todo el mundo insiste en que no puedo salvarlos a todos?,4
+shirou_emiya_pissedup_05,shirou_emiya,PISSEDUP,Tengo que practicar la proyección. Y después preparar la cena. Y reparar esa ventana...,5
+shirou_emiya_pissedup_06,shirou_emiya,PISSEDUP,A veces me pregunto si Archer tenía razón en algo. Solo a veces.,6
