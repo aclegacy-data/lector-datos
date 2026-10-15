@@ -73,6 +73,7 @@ scathach_pissedup_03,scathach,PISSEDUP,"Quizá debería tomarme unas vacaciones.
 scathach_pissedup_04,scathach,PISSEDUP,"Cuanto más entreno a alguien, más ganas le entran de desafiarme.",4
 scathach_pissedup_05,scathach,PISSEDUP,¿Será demasiado pedir un oponente que no se rompa al primer golpe?,5
 scathach_pissedup_06,scathach,PISSEDUP,Criar guerreros es agotador. Y después dicen que la magia lo resuelve todo.,6
+scathach_pissedup_07,scathach,PISSEDUP,¿Sabes? No soy solo maestra en artes marciales. También sé cómo (CENSURADO).,7
 nero_claudius_clickon_01,nero_claudius,CLICKON,"¡Oh, has venido a contemplar a tu emperatriz!",1
 nero_claudius_clickon_02,nero_claudius,CLICKON,¡Habla! ¡Nero te concede una audiencia!,2
 nero_claudius_clickon_03,nero_claudius,CLICKON,¡La estrella del espectáculo está aquí!,3
@@ -87,6 +88,7 @@ nero_claudius_pissedup_03,nero_claudius,PISSEDUP,¿Un espejo nuevo? ¡Por supues
 nero_claudius_pissedup_04,nero_claudius,PISSEDUP,He decidido cocinar. ¿Por qué todos huyen cuando me pongo el delantal?,4
 nero_claudius_pissedup_05,nero_claudius,PISSEDUP,¡Mi actuación fue perfecta! Que el público no lo haya entendido es otro asunto.,5
 nero_claudius_pissedup_06,nero_claudius,PISSEDUP,¿Qué clase de reino no tiene un festival dedicado exclusivamente a Nero?,6
+nero_claudius_pissedup_07,nero_claudius,PISSEDUP,"Ave César de Roma" y "A veces arde Roma" son dos frases que no me gustan... mucho.,7
 inosuke_hashibira_clickon_01,inosuke_hashibira,CLICKON,"¡¿QUÉ QUIERES, EH?!",1
 inosuke_hashibira_clickon_02,inosuke_hashibira,CLICKON,¡El gran Inosuke está aquí!,2
 inosuke_hashibira_clickon_03,inosuke_hashibira,CLICKON,¡Dime dónde está el más fuerte!,3
@@ -101,6 +103,7 @@ inosuke_hashibira_pissedup_03,inosuke_hashibira,PISSEDUP,Ese jabalí de mi másc
 inosuke_hashibira_pissedup_04,inosuke_hashibira,PISSEDUP,¿¡QUIÉN SE COMIÓ MI COMIDA!? ¡VOY A DESAFIAR A TODO EL MUNDO!,4
 inosuke_hashibira_pissedup_05,inosuke_hashibira,PISSEDUP,¡Puedo correr más rápido que cualquiera! ...¿Por qué hay que caminar a veces?,5
 inosuke_hashibira_pissedup_06,inosuke_hashibira,PISSEDUP,¿Qué demonios es una siesta? ¡Suena como una técnica secreta!,6
+inosuke_hashibira_pissedup_07,inosuke_hashibira,PISSEDUP,Quizá deba aprender algo de Gonpachiro Kamaboko.,7
 himiko_toga_clickon_01,himiko_toga,CLICKON,¡Holaaa! ¿Me extrañabas?,1
 himiko_toga_clickon_02,himiko_toga,CLICKON,¿Puedo saber más de ti? ¡Porfiii!,2
 himiko_toga_clickon_03,himiko_toga,CLICKON,"¡Ay, qué emoción! ¿Qué vamos a hacer?",3
@@ -115,6 +118,7 @@ himiko_toga_pissedup_03,himiko_toga,PISSEDUP,¿Qué ropa debería ponerme para p
 himiko_toga_pissedup_04,himiko_toga,PISSEDUP,"¡Ay, qué rabia! ¡Me gustaba tanto y tuvo que salir corriendo!",4
 himiko_toga_pissedup_05,himiko_toga,PISSEDUP,¿Será muy raro practicar sonrisas frente al espejo durante toda la tarde?,5
 himiko_toga_pissedup_06,himiko_toga,PISSEDUP,¡Qué aburrido! ¡Quiero hacer algo divertido con alguien especial!,6
+himiko_toga_pissedup_07,himiko_toga,PISSEDUP,A veces quisiera decirle a Izuku que... ¡Ah!,7
 shirou_emiya_clickon_01,shirou_emiya,CLICKON,¿Necesitas ayuda? Dime qué pasa.,1
 shirou_emiya_clickon_02,shirou_emiya,CLICKON,"Si hay algo que pueda hacer, cuenta conmigo.",2
 shirou_emiya_clickon_03,shirou_emiya,CLICKON,Está bien. Te escucho.,3
@@ -129,3 +133,4 @@ shirou_emiya_pissedup_03,shirou_emiya,PISSEDUP,¡No puedes vivir solamente de ar
 shirou_emiya_pissedup_04,shirou_emiya,PISSEDUP,¿Por qué todo el mundo insiste en que no puedo salvarlos a todos?,4
 shirou_emiya_pissedup_05,shirou_emiya,PISSEDUP,Tengo que practicar la proyección. Y después preparar la cena. Y reparar esa ventana...,5
 shirou_emiya_pissedup_06,shirou_emiya,PISSEDUP,A veces me pregunto si Archer tenía razón en algo. Solo a veces.,6
+shirou_emiya_pissedup_07,shirou_emiya,PISSEDUP,Después de esta pelea, no voy a cocinar para nadie. Em... bueno, otra vez lo haré.,7
